@@ -1,0 +1,1 @@
+../../../vendor/remote/app/public/js/remote.js
