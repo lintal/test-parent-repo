@@ -1,0 +1,3 @@
+[submodule "app/public/js/remote"]
+	path = app/public/js/remote
+	url = /Users/lintoa01/Projects/test-sub-repo
