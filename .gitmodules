@@ -1,0 +1,3 @@
+[submodule "vendor/remote"]
+	path = vendor/remote
+	url = https://github.com/lintal/test-sub-repo.git
